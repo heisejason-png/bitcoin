@@ -78,5 +78,6 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 Created by Jason Heise
+Owned by PaulWalkerFoundation
 https://www.x.com  https://next.frame.io
 https://paulwalkerfoundation.org
